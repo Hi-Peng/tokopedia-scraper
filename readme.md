@@ -12,3 +12,5 @@ The structure of the csv is like this (visualized in table view for easier read)
 | sample data  | sample data        | sample data   | sample data    | sample data            | sample data         | sample data   |
 
 **Note**: Currently the description doesn't work, can see in the code inline documentation for the explanation and possible improvements.
+  
+**Side Note**: I've added sample data called "Top 100 handphone.csv" for reference.
